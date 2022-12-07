@@ -49,7 +49,7 @@ export const DATA = [
     answers: [
       { id: "17", value: "documentWrite('Hello').", correct: false },
       { id: "18", value: "prompt('Hello').", correct: false },
-      { id: "19", value: "console.log('Hello).", correct: true },
+      { id: "19", value: "console.log('Hello').", correct: true },
       { id: "20", value: "print(Hello).", correct: false },
       { id: "21", value: "write('Hello').", correct: false },
      ]
