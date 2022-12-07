@@ -33,7 +33,7 @@ const renderQuestions = (index) => {
     </div>
     
     `;
-  return renderAnswers();
+  
 };
 const renderResults = () => {
   let content = "";
